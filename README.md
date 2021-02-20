@@ -11,3 +11,6 @@ https://fastapi.tiangolo.com/tutorial/first-steps/
 - Install the requirements `pip install -r requirements.txt`
 - Run the app. `uvicorn main:app`
 - Open the docs in a web browser. http://127.0.0.1:8000/docs
+
+## To Run Unit Tests
+- Execute the command `python -m pytest tests`

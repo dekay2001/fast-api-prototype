@@ -1,11 +1,5 @@
-import os
-import sys
-
 import pytest
 from assertpy import assert_that
-
-
-sys.path.append(os.getcwd())
 
 import example.models.items as items
 
